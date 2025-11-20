@@ -102,8 +102,7 @@ Target: Remote data science position ($80-120K USD) with US/Canadian remote-firs
 
 LinkedIn: [joão-manero](https://www.linkedin.com/in/joão-manero)  
 GitHub: [Miauneiro](https://github.com/Miauneiro)  
-Email: your.email@example.com
-
+Email: joaofteixeiramanero@gmail.com
 Open to: Remote data science roles, contract/consulting, climate tech opportunities
 
 ---

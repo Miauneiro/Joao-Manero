@@ -68,9 +68,10 @@ Advanced platform for analyzing ocean water masses using CTD profile data with g
 
 ## GitHub Stats
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miauneiro&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miauneiro&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miauneiro&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miauneiro&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
